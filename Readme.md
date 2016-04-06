@@ -1,3 +1,5 @@
+# Proposta
+ > Proposta presente no arquivo proposta.pdf
 
 # Estrutura:
  > O código está em POO.
